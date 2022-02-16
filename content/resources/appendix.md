@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Appendix to lecture notes. (Courtesy of Alexis Mantzaris.)
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-29-numerical-marine-hydrodynamics-13-024-spring-2003/5a2ace85afbf4385a20bdb8f03edc50c_appendix.pdf
+file: /media/courses/2-29-numerical-marine-hydrodynamics-13-024-spring-2003/5a2ace85afbf4385a20bdb8f03edc50c_appendix.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: appendix.pdf
 uid: 5a2ace85-afbf-4385-a20b-db8f03edc50c

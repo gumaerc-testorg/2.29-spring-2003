@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Problem set.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-29-numerical-marine-hydrodynamics-13-024-spring-2003/67e3905f141f466855a92904bf65a7d1_ps7.pdf
+file: /media/courses/2-29-numerical-marine-hydrodynamics-13-024-spring-2003/67e3905f141f466855a92904bf65a7d1_ps7.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: ps7.pdf
 uid: 67e3905f-141f-4668-55a9-2904bf65a7d1

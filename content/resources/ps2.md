@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: MATLAB? tutorial.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-29-numerical-marine-hydrodynamics-13-024-spring-2003/4c72a0f84ec3703f4ea366bf8a89f378_ps2.pdf
+file: /media/courses/2-29-numerical-marine-hydrodynamics-13-024-spring-2003/4c72a0f84ec3703f4ea366bf8a89f378_ps2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: ps2.pdf
 uid: 4c72a0f8-4ec3-703f-4ea3-66bf8a89f378
