@@ -37,9 +37,9 @@ Problem Sets
 Supporting Files
 ----------------
 
-*   64a012.fin ([FIN](/courses/mechanical-engineering/2-29-numerical-marine-hydrodynamics-13-024-spring-2003/assignments/64a012.fin))
-*   LOCALIZE.M ([M](/courses/mechanical-engineering/2-29-numerical-marine-hydrodynamics-13-024-spring-2003/assignments/LOCALIZE.M))
-*   RANK2D.M ([M](/courses/mechanical-engineering/2-29-numerical-marine-hydrodynamics-13-024-spring-2003/assignments/RANK2D.M))
-*   wig4125.out ([OUT](/courses/mechanical-engineering/2-29-numerical-marine-hydrodynamics-13-024-spring-2003/assignments/wig4125.out))
-*   wigley5.out ([OUT](/courses/mechanical-engineering/2-29-numerical-marine-hydrodynamics-13-024-spring-2003/assignments/wigley5.out))
-*   wigley9.out ([OUT](/courses/mechanical-engineering/2-29-numerical-marine-hydrodynamics-13-024-spring-2003/assignments/wigley9.out))
+*   64a012.fin ([FIN]({{< baseurl >}}/resources/64a012))
+*   LOCALIZE.M ([M]({{< baseurl >}}/resources/localize))
+*   RANK2D.M ([M]({{< baseurl >}}/resources/rank2d))
+*   wig4125.out ([OUT]({{< baseurl >}}/resources/wig4125))
+*   wigley5.out ([OUT]({{< baseurl >}}/resources/wigley5))
+*   wigley9.out ([OUT]({{< baseurl >}}/resources/wigley9))

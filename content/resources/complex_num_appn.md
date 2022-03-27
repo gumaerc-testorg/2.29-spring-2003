@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4f74100c-c599-cf9c-9256-4ea8b4f6fea2
 resourcetype: Document
 title: complex_num_appn.pdf
 uid: 9ff2c3c0-c565-c6f8-4df3-c7da519a7299

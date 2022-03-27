@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4f74100c-c599-cf9c-9256-4ea8b4f6fea2
 resourcetype: Document
 title: num_errors.pdf
 uid: 80a752ce-0ec0-4aea-a560-131e2a5440f8

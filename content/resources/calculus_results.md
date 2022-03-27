@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4f74100c-c599-cf9c-9256-4ea8b4f6fea2
 resourcetype: Document
 title: calculus_results.pdf
 uid: 713c54f1-8e77-b69d-efb5-8a698fadef83

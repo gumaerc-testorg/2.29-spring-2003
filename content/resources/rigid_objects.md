@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4f74100c-c599-cf9c-9256-4ea8b4f6fea2
 resourcetype: Document
 title: rigid_objects.pdf
 uid: 8f096f51-09bd-e20b-e144-012559730117
