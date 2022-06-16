@@ -1,9 +1,14 @@
 ---
 content_type: page
+description: An introduction to the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 74f5fbd6-e925-4f08-c6e4-11819ad3faa7
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This course was originally offered in Course 13 (Department of Ocean Engineering) as 13.024. In 2005, ocean engineering subjects became part of Course 2 (Department of Mechanical Engineering), and this course was renumbered 2.29.

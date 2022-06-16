@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This data file is associated with Problem Set 9.
-file: /media/courses/2-29-numerical-marine-hydrodynamics-13-024-spring-2003/3f430092ba582f4a2cfc81c53ae9f09b_wigley9.out
+file: /courses/2-29-numerical-marine-hydrodynamics-13-024-spring-2003/3f430092ba582f4a2cfc81c53ae9f09b_wigley9.out
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: wigley9.out
 uid: 3f430092-ba58-2f4a-2cfc-81c53ae9f09b
 ---
+This data file is associated with Problem Set 9.
+

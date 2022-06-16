@@ -1,9 +1,14 @@
 ---
 content_type: page
+description: Lecture topics.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: 6ef1bcc3-c12b-636f-7bbf-ca8513842259
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
