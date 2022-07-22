@@ -7,6 +7,7 @@ file: /courses/2-29-numerical-marine-hydrodynamics-13-024-spring-2003/d453d73b82
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 In this problem set you will write MATLAB programs to calculate some parameters of a ship from an offset table. The offset table files can be found in this section.
-

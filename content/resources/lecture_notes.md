@@ -6,6 +6,7 @@ file: /courses/2-29-numerical-marine-hydrodynamics-13-024-spring-2003/01e395bcab
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 All of the lecture notes for this course can be downloaded in this one file.
-

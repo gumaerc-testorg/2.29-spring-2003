@@ -6,6 +6,7 @@ file: /courses/2-29-numerical-marine-hydrodynamics-13-024-spring-2003/4deea7bd6d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Problem set. For this homework you will extend the 2-dimensional panel method that you developed in Problem Set 6 to handle lift.
-
