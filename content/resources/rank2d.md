@@ -7,6 +7,7 @@ description: This m-file computes the integral of the Green function, g, and of 
   is at (x,y) in local coordinates. The normal vector to the panel is in the positive
   local y-direction.
 file: /courses/2-29-numerical-marine-hydrodynamics-13-024-spring-2003/b2b6d93519126925fe8edebf1e6c8b80_RANK2D.M
+file_size: 1247
 file_type: text/plain
 learning_resource_types:
 - Assignments

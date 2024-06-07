@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem set.
 file: /courses/2-29-numerical-marine-hydrodynamics-13-024-spring-2003/c7df6c57aeae3acd764ebf9c0dd4e3fb_ps4.pdf
+file_size: 133289
 file_type: application/pdf
 learning_resource_types:
 - Assignments
