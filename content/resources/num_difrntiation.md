@@ -2,6 +2,7 @@
 content_type: resource
 description: Summary of lecture.
 file: /courses/2-29-numerical-marine-hydrodynamics-13-024-spring-2003/36348dc346249f69db25c0bf58374ce3_num_difrntiation.pdf
+file_size: 124210
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

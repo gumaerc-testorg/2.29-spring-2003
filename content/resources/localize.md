@@ -4,6 +4,7 @@ description: This function gives the local coordinates of (xglob, yglob) with re
   to a panel where the panel is trhe local x axis and the y axis is to the left when
   going from the first point to the second of the panel.
 file: /courses/2-29-numerical-marine-hydrodynamics-13-024-spring-2003/3e1bc3be1447ab58cf2f131676abc97f_LOCALIZE.M
+file_size: 547
 file_type: text/plain
 learning_resource_types:
 - Assignments

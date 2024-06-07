@@ -2,6 +2,7 @@
 content_type: resource
 description: MATLAB? tutorial.
 file: /courses/2-29-numerical-marine-hydrodynamics-13-024-spring-2003/4c72a0f84ec3703f4ea366bf8a89f378_ps2.pdf
+file_size: 106451
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -2,6 +2,7 @@
 content_type: resource
 description: Summary of lecture.
 file: /courses/2-29-numerical-marine-hydrodynamics-13-024-spring-2003/247afda004ac97d04c9810db87c5d529_curve_fitting.pdf
+file_size: 120785
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
