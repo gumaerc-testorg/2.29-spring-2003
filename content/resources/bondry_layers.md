@@ -2,6 +2,7 @@
 content_type: resource
 description: Summary of lecture.
 file: /courses/2-29-numerical-marine-hydrodynamics-13-024-spring-2003/a73da87c61a36d4fe29e080672f8e47a_bondry_layers.pdf
+file_size: 1375233
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -3,6 +3,7 @@ content_type: resource
 description: All of the lecture notes for this course can be downloaded in this one
   file.
 file: /courses/2-29-numerical-marine-hydrodynamics-13-024-spring-2003/01e395bcab50dc4cd8f82ebaa045aca3_lecture_notes.pdf
+file_size: 5903969
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
