@@ -3,7 +3,7 @@ content_type: resource
 description: In this problem set you will write MATLAB programs to calculate some
   parameters of a ship from an offset table. The offset table files can be found in
   this section.
-file: /courses/2-29-numerical-marine-hydrodynamics-13-024-spring-2003/d453d73b82176c205d476c72d94249f8_ps9.pdf
+file: /ol-ocw-studio-app/courses/2-29-numerical-marine-hydrodynamics-13-024-spring-2003/d453d73b82176c205d476c72d94249f8_ps9.pdf
 file_size: 85894
 file_type: application/pdf
 learning_resource_types:
