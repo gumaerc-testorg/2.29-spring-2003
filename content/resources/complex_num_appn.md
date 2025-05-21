@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Summary of lecture.
-file: /ol-ocw-studio-app/courses/2-29-numerical-marine-hydrodynamics-13-024-spring-2003/9ff2c3c0c565c6f84df3c7da519a7299_complex_num_appn.pdf
+file: /courses/2-29-numerical-marine-hydrodynamics-13-024-spring-2003/9ff2c3c0c565c6f84df3c7da519a7299_complex_num_appn.pdf
 file_size: 184125
 file_type: application/pdf
 learning_resource_types:
