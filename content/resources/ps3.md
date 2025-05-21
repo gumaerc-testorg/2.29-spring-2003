@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set with solution.
-file: /ol-ocw-studio-app/courses/2-29-numerical-marine-hydrodynamics-13-024-spring-2003/3dbd995a3efaec4235e0bfdf570211f1_ps3.pdf
+file: /courses/2-29-numerical-marine-hydrodynamics-13-024-spring-2003/3dbd995a3efaec4235e0bfdf570211f1_ps3.pdf
 file_size: 62224
 file_type: application/pdf
 learning_resource_types:

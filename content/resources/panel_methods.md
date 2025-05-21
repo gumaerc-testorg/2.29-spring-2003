@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Summary of lecture.
-file: /ol-ocw-studio-app/courses/2-29-numerical-marine-hydrodynamics-13-024-spring-2003/c901dfe01c1c1665ecce6ebb999dbb41_panel_methods.pdf
+file: /courses/2-29-numerical-marine-hydrodynamics-13-024-spring-2003/c901dfe01c1c1665ecce6ebb999dbb41_panel_methods.pdf
 file_size: 438886
 file_type: application/pdf
 learning_resource_types:
