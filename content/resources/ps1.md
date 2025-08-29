@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Assignment of readings and problems from course text.
-file: /courses/2-29-numerical-marine-hydrodynamics-13-024-spring-2003/11542d97e3779454bc901df3cf8c14ce_ps1.pdf
+file: /ol-ocw-studio-app/courses/2-29-numerical-marine-hydrodynamics-13-024-spring-2003/11542d97e3779454bc901df3cf8c14ce_ps1.pdf
 file_size: 13307
 file_type: application/pdf
 learning_resource_types:
