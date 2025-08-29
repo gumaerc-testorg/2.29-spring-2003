@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This data file is associated with Problem Set 9.
-file: /courses/2-29-numerical-marine-hydrodynamics-13-024-spring-2003/49794f0275905bed8615f698e47a26db_wigley5.out
+file: /ol-ocw-studio-app/courses/2-29-numerical-marine-hydrodynamics-13-024-spring-2003/49794f0275905bed8615f698e47a26db_wigley5.out
 file_size: 4415
 file_type: text/plain
 learning_resource_types:
