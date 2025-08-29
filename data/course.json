@@ -53,11 +53,11 @@
   },
   "learning_resource_types": [
     "Lecture Notes",
-    "Course Introduction",
     "Problem Sets",
     "Programming Assignments"
   ],
   "site_uid": "0bb7d218-8c34-48dc-9751-41f26065bfb5",
   "site_short_id": "2.29-spring-2003",
+  "site_url_path": "courses/2-29-numerical-marine-hydrodynamics-13-024-spring-2003",
   "title": "Course Metadata"
 }

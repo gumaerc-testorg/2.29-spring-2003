@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Summary of lecture.
-file: /courses/2-29-numerical-marine-hydrodynamics-13-024-spring-2003/0e87c8c5b9d3f2b1cd7c5a7ba72505dd_differential_eqs.pdf
+file: /ol-ocw-studio-app/courses/2-29-numerical-marine-hydrodynamics-13-024-spring-2003/0e87c8c5b9d3f2b1cd7c5a7ba72505dd_differential_eqs.pdf
 file_size: 217234
 file_type: application/pdf
 learning_resource_types:
